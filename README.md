@@ -1,10 +1,13 @@
 # k-means-clustering
 
-Simple implementation of unservpsised machine learning algorhitm k-means clutering.
-
+Simple implementation of k-means clustering, an unsupervised machine learning algorithm that iteratively groups data into clusters. 
+Dependencies:
+    - NumPy
+    - Matplotlib
 
 
 Original data plotted in 7 clusters:
+
 
 ![image](https://user-images.githubusercontent.com/85080576/146835060-45e5e34d-ed8e-43dc-977e-f6df0bad9f4d.png)
 
