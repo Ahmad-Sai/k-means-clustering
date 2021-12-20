@@ -1,11 +1,15 @@
 # k-means-clustering
 
 Simple implementation of k-means clustering, an unsupervised machine learning algorithm that iteratively groups data into clusters. 
+
 Dependencies:
+
     - NumPy
+    
     - Matplotlib
 
 Data plotted has a standard deviation of **~0.22360679775**
+
 Data clusterd has a standard deviation of **~0.24091786357**
 
 Original data plotted in 7 clusters:
