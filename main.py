@@ -141,3 +141,17 @@ class clustering:
 
 
         return (sumClasses/len(self.result), math.sqrt(0.05))
+    
+    
+# runs the program
+if __name__ == "__main__":
+    cluster1 = clustering(7, 0.1)
+    cluster1.createData()      
+    cluster1.plotOriginal() 
+    cluster1.randoom()
+    cluster1.assignClass()
+    cluster1.makeClasses()
+    cluster1.optimize()
+    cluster1.sortClasses()
+    cluster1.plotNew()
+    print(cluster1.getStandDev())
