@@ -11,7 +11,7 @@ Standard deviation of data _before_ clustering: **≈ 0.22360679775**
 
 Standard deviation of data _after_ clustering: **≈ 0.24091786357**
 
-Accuracy of the program is ≈ 92.2582560127021%
+Accuracy of the program is **≈ 92.2582560127021%**
 
 Original data plotted in 7 clusters:
 
