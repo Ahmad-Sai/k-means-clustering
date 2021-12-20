@@ -5,7 +5,6 @@ Simple implementation of k-means clustering, an unsupervised machine learning al
 Dependencies:
 
     - NumPy
-    
     - Matplotlib
 
 Data plotted has a standard deviation of **~0.22360679775**
