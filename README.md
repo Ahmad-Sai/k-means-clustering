@@ -7,6 +7,8 @@ Dependencies:
     - NumPy
     - Matplotlib
 
+!!!DATA IS RANDOM EVERYTIME THE PROGRAM IS RUN. ACCURACY AND STANDARD DEVIATION WILL VARY!!!
+
 Standard deviation of data _before_ clustering: **≈ 0.22360679775**
 
 Standard deviation of data _after_ clustering: **≈ 0.24091786357**
